@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1732751616 source:c:\users\hb\documents\projet_bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+
+1733397025 source:c:\users\hb\desktop\projet_bank\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"bank.h"
+
+1733396387 c:\users\hb\desktop\projet_bank\bank.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
